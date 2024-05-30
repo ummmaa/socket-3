@@ -1,0 +1,6 @@
+Server:コンソール
+受信: abc
+送信するメッセージ:ABC
+
+Client:コンソール
+受信: ABC
